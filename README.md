@@ -1,11 +1,11 @@
-# ABCD Dataset Modeling
+# Neuroscience Dataset Modeling
 
-This project demonstrates the development of two deep learning models — a **Transformer** and an **LSTM** — applied to the ABCD dataset, which includes both time series and cross-sectional data.
+This project demonstrates the development of two deep learning models — a **Transformer** and an **LSTM** — two models to predict psychosis-related outcomes in youth using brain imaging, demographic, and clinical data as features.
 
 ## Project Summary
 
 - Built custom LSTM and Transformer models to analyze complex sequential and cross-sectional data.
-- Focused on extracting meaningful patterns from temporal and snapshot data in the ABCD dataset.
+- Focused on extracting meaningful patterns from temporal and snapshot data in this dataset.
 - Dataset is private and not included.
 
 ## Models
