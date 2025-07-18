@@ -15,4 +15,4 @@ This project demonstrates the development of two deep learning models — a **Tr
 
 ## Results
 
-Achieved strong predictive performance (details confidential due to dataset privacy).
+Achieved 95.7% accuracy and 82.5% AUC on a highly imbalanced dataset. 
